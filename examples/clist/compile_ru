@@ -1,0 +1,5 @@
+make
+скомпилируется clist2.c
+
+make clist
+скомпилируется clist.c
